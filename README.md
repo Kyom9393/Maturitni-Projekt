@@ -1,2 +1,2 @@
 # Maturitni-Projekt
-2024
+Maturitní práce se zaměřuje na vytvoření ručně kreslené digitální animace inspirované knihou Spalovač mrtvol od Ladislava Fukse. Animace bude stylizována melancholickou barevnou paletou a surrealistickými prvky. K jejímu zpracování budou použity programy Adobe Photoshop, Adobe After Effects a Adobe Premiere Pro. Samotná tvorba proběhne ve fázích od scénáře a storyboardu po finální střih.
